@@ -1,2 +1,2 @@
 # google_homepage
-Created a webpage like Google's Homepage
+Created a webpage with the same design as Google's home page.
